@@ -1,0 +1,1108 @@
+{
+  "devices": [
+    {
+      "device_key": "galaxy_s25_ultra",
+      "device_manufacturer": "Samsung",
+      "device_name": "Galaxy S25 Ultra",
+      "device_os": "Android",
+      "device_version": "14",
+      "device_status": "AVAILABLE",
+      "id": "b2a9"
+    },
+    {
+      "device_key": "galaxy_s24",
+      "device_manufacturer": "Samsung",
+      "device_name": "Galaxy S24",
+      "device_os": "Android",
+      "device_version": "13",
+      "device_status": "LOW_BATTERY",
+      "id": "9693"
+    },
+    {
+      "device_key": "galaxy_s23",
+      "device_manufacturer": "Samsung",
+      "device_name": "Galaxy S23",
+      "device_os": "Android",
+      "device_version": "13",
+      "device_status": "AVAILABLE",
+      "id": "ca51"
+    },
+    {
+      "device_key": "galaxy_note20",
+      "device_manufacturer": "Samsung",
+      "device_name": "Galaxy Note20",
+      "device_os": "Android",
+      "device_version": "12",
+      "device_status": "WIFI_DISCONNECT",
+      "id": "319a"
+    },
+    {
+      "device_key": "iphone_16_pro",
+      "device_manufacturer": "Apple",
+      "device_name": "iPhone 16 Pro",
+      "device_os": "iOS",
+      "device_version": "17.3",
+      "device_status": "AVAILABLE",
+      "id": "af31"
+    },
+    {
+      "device_key": "iphone_15",
+      "device_manufacturer": "Apple",
+      "device_name": "iPhone 15",
+      "device_os": "iOS",
+      "device_version": "17.1",
+      "device_status": "HELPER_NOT_FOUND",
+      "id": "a55a"
+    },
+    {
+      "device_key": "iphone_14",
+      "device_manufacturer": "Apple",
+      "device_name": "iPhone 14",
+      "device_os": "iOS",
+      "device_version": "16.5",
+      "device_status": "AVAILABLE",
+      "id": "14db"
+    },
+    {
+      "device_key": "iphone_13",
+      "device_manufacturer": "Apple",
+      "device_name": "iPhone 13",
+      "device_os": "iOS",
+      "device_version": "15.4",
+      "device_status": "AVAILABLE",
+      "id": "9421"
+    },
+    {
+      "device_key": "pixel_8_pro",
+      "device_manufacturer": "Google",
+      "device_name": "Pixel 8 Pro",
+      "device_os": "Android",
+      "device_version": "14",
+      "device_status": "AVAILABLE",
+      "id": "8031"
+    },
+    {
+      "device_key": "pixel_7",
+      "device_manufacturer": "Google",
+      "device_name": "Pixel 7",
+      "device_os": "Android",
+      "device_version": "13",
+      "device_status": "VERIFICATION_REQUIRED",
+      "id": "3c3b"
+    },
+    {
+      "device_key": "xiaomi_14",
+      "device_manufacturer": "Xiaomi",
+      "device_name": "Xiaomi 14",
+      "device_os": "Android",
+      "device_version": "14",
+      "device_status": "AVAILABLE",
+      "id": "23f5"
+    },
+    {
+      "device_key": "xiaomi_mi11",
+      "device_manufacturer": "Xiaomi",
+      "device_name": "Mi 11",
+      "device_os": "Android",
+      "device_version": "12",
+      "device_status": "LOW_BATTERY",
+      "id": "7df1"
+    },
+    {
+      "device_key": "iphone_xr",
+      "device_manufacturer": "Apple",
+      "device_name": "iPhone XR",
+      "device_os": "iOS",
+      "device_version": "16.3",
+      "device_status": "AVAILABLE",
+      "id": "2e2b"
+    },
+    {
+      "device_key": "iphone_se3",
+      "device_manufacturer": "Apple",
+      "device_name": "iPhone SE 3rd",
+      "device_os": "iOS",
+      "device_version": "16.0",
+      "device_status": "AVAILABLE",
+      "id": "9ffd"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "1",
+      "device_key": "pixel_8_pro",
+      "user": "tester02",
+      "start_time": "2025-11-27T12:00:00",
+      "end_time": "2025-11-27T13:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "2",
+      "device_key": "galaxy_note20",
+      "user": "developer",
+      "start_time": "2025-11-27T12:00:00",
+      "end_time": "2025-11-27T13:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "3",
+      "device_key": "pixel_8_pro",
+      "user": "jm",
+      "start_time": "2025-11-27T17:00:00",
+      "end_time": "2025-11-27T18:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "4",
+      "device_key": "pixel_7",
+      "user": "qa",
+      "start_time": "2025-11-28T11:00:00",
+      "end_time": "2025-11-28T13:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "5",
+      "device_key": "iphone_xr",
+      "user": "qa",
+      "start_time": "2025-11-28T17:00:00",
+      "end_time": "2025-11-28T18:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "6",
+      "device_key": "iphone_16_pro",
+      "user": "tester02",
+      "start_time": "2025-11-28T14:00:00",
+      "end_time": "2025-11-28T15:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "7",
+      "device_key": "pixel_7",
+      "user": "tester02",
+      "start_time": "2025-11-28T08:00:00",
+      "end_time": "2025-11-28T09:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "8",
+      "device_key": "galaxy_note20",
+      "user": "tester01",
+      "start_time": "2025-11-28T14:00:00",
+      "end_time": "2025-11-28T15:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "9",
+      "device_key": "iphone_xr",
+      "user": "guest",
+      "start_time": "2025-11-29T14:00:00",
+      "end_time": "2025-11-29T16:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "10",
+      "device_key": "xiaomi_mi11",
+      "user": "tester02",
+      "start_time": "2025-11-29T17:00:00",
+      "end_time": "2025-11-29T19:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "11",
+      "device_key": "xiaomi_14",
+      "user": "guest",
+      "start_time": "2025-11-29T11:00:00",
+      "end_time": "2025-11-29T13:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "12",
+      "device_key": "iphone_13",
+      "user": "jm",
+      "start_time": "2025-11-29T08:00:00",
+      "end_time": "2025-11-29T09:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "13",
+      "device_key": "xiaomi_mi11",
+      "user": "jm",
+      "start_time": "2025-11-30T15:00:00",
+      "end_time": "2025-11-30T17:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "14",
+      "device_key": "iphone_15",
+      "user": "tester01",
+      "start_time": "2025-11-30T11:00:00",
+      "end_time": "2025-11-30T12:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "15",
+      "device_key": "galaxy_s23",
+      "user": "tester02",
+      "start_time": "2025-11-30T08:00:00",
+      "end_time": "2025-11-30T10:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "16",
+      "device_key": "iphone_15",
+      "user": "qa",
+      "start_time": "2025-12-01T16:00:00",
+      "end_time": "2025-12-01T17:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "17",
+      "device_key": "pixel_8_pro",
+      "user": "jm",
+      "start_time": "2025-12-01T08:00:00",
+      "end_time": "2025-12-01T09:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "18",
+      "device_key": "iphone_xr",
+      "user": "tester02",
+      "start_time": "2025-12-01T14:00:00",
+      "end_time": "2025-12-01T16:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "19",
+      "device_key": "galaxy_s23",
+      "user": "jm",
+      "start_time": "2025-12-01T17:00:00",
+      "end_time": "2025-12-01T19:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "20",
+      "device_key": "iphone_xr",
+      "user": "tester01",
+      "start_time": "2025-12-02T10:00:00",
+      "end_time": "2025-12-02T11:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "21",
+      "device_key": "galaxy_s24",
+      "user": "tester01",
+      "start_time": "2025-12-02T10:00:00",
+      "end_time": "2025-12-02T11:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "22",
+      "device_key": "iphone_se3",
+      "user": "tester02",
+      "start_time": "2025-12-02T17:00:00",
+      "end_time": "2025-12-02T19:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "23",
+      "device_key": "xiaomi_mi11",
+      "user": "qa",
+      "start_time": "2025-12-03T11:00:00",
+      "end_time": "2025-12-03T12:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "24",
+      "device_key": "galaxy_note20",
+      "user": "tester01",
+      "start_time": "2025-12-03T09:00:00",
+      "end_time": "2025-12-03T11:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "25",
+      "device_key": "galaxy_s24",
+      "user": "qa",
+      "start_time": "2025-12-03T14:00:00",
+      "end_time": "2025-12-03T15:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "26",
+      "device_key": "pixel_8_pro",
+      "user": "jm",
+      "start_time": "2025-12-03T14:00:00",
+      "end_time": "2025-12-03T15:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "27",
+      "device_key": "iphone_16_pro",
+      "user": "developer",
+      "start_time": "2025-12-04T14:00:00",
+      "end_time": "2025-12-04T15:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "28",
+      "device_key": "galaxy_s25_ultra",
+      "user": "qa",
+      "start_time": "2025-12-04T12:00:00",
+      "end_time": "2025-12-04T14:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "29",
+      "device_key": "xiaomi_14",
+      "user": "qa",
+      "start_time": "2025-12-04T14:00:00",
+      "end_time": "2025-12-04T16:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "30",
+      "device_key": "iphone_15",
+      "user": "qa",
+      "start_time": "2025-12-05T12:00:00",
+      "end_time": "2025-12-05T13:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "31",
+      "device_key": "pixel_8_pro",
+      "user": "tester01",
+      "start_time": "2025-12-05T10:00:00",
+      "end_time": "2025-12-05T11:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "32",
+      "device_key": "galaxy_s23",
+      "user": "developer",
+      "start_time": "2025-12-05T12:00:00",
+      "end_time": "2025-12-05T14:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "33",
+      "device_key": "iphone_14",
+      "user": "jm",
+      "start_time": "2025-12-05T14:00:00",
+      "end_time": "2025-12-05T15:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "34",
+      "device_key": "iphone_xr",
+      "user": "guest",
+      "start_time": "2025-12-06T16:00:00",
+      "end_time": "2025-12-06T18:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "35",
+      "device_key": "iphone_xr",
+      "user": "tester02",
+      "start_time": "2025-12-06T10:00:00",
+      "end_time": "2025-12-06T11:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "36",
+      "device_key": "pixel_8_pro",
+      "user": "developer",
+      "start_time": "2025-12-06T17:00:00",
+      "end_time": "2025-12-06T18:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "37",
+      "device_key": "iphone_16_pro",
+      "user": "qa",
+      "start_time": "2025-12-06T08:00:00",
+      "end_time": "2025-12-06T10:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "38",
+      "device_key": "xiaomi_mi11",
+      "user": "tester01",
+      "start_time": "2025-12-07T13:00:00",
+      "end_time": "2025-12-07T15:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "39",
+      "device_key": "xiaomi_14",
+      "user": "tester01",
+      "start_time": "2025-12-07T08:00:00",
+      "end_time": "2025-12-07T10:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "40",
+      "device_key": "iphone_13",
+      "user": "developer",
+      "start_time": "2025-12-07T17:00:00",
+      "end_time": "2025-12-07T18:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "41",
+      "device_key": "iphone_15",
+      "user": "jm",
+      "start_time": "2025-12-07T08:00:00",
+      "end_time": "2025-12-07T09:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "42",
+      "device_key": "xiaomi_14",
+      "user": "developer",
+      "start_time": "2025-12-07T15:00:00",
+      "end_time": "2025-12-07T17:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "43",
+      "device_key": "galaxy_s23",
+      "user": "developer",
+      "start_time": "2025-12-08T17:00:00",
+      "end_time": "2025-12-08T19:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "44",
+      "device_key": "pixel_8_pro",
+      "user": "qa",
+      "start_time": "2025-12-08T15:00:00",
+      "end_time": "2025-12-08T16:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "45",
+      "device_key": "galaxy_s24",
+      "user": "guest",
+      "start_time": "2025-12-08T14:00:00",
+      "end_time": "2025-12-08T15:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "46",
+      "device_key": "iphone_13",
+      "user": "developer",
+      "start_time": "2025-12-08T08:00:00",
+      "end_time": "2025-12-08T10:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "47",
+      "device_key": "iphone_se3",
+      "user": "tester01",
+      "start_time": "2025-12-09T08:00:00",
+      "end_time": "2025-12-09T09:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "48",
+      "device_key": "iphone_xr",
+      "user": "guest",
+      "start_time": "2025-12-09T11:00:00",
+      "end_time": "2025-12-09T13:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "49",
+      "device_key": "iphone_15",
+      "user": "jm",
+      "start_time": "2025-12-09T09:00:00",
+      "end_time": "2025-12-09T10:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "50",
+      "device_key": "iphone_15",
+      "user": "tester01",
+      "start_time": "2025-12-09T15:00:00",
+      "end_time": "2025-12-09T17:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "51",
+      "device_key": "pixel_8_pro",
+      "user": "tester01",
+      "start_time": "2025-12-09T12:00:00",
+      "end_time": "2025-12-09T14:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "52",
+      "device_key": "pixel_8_pro",
+      "user": "tester02",
+      "start_time": "2025-12-10T16:00:00",
+      "end_time": "2025-12-10T18:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "53",
+      "device_key": "galaxy_s25_ultra",
+      "user": "developer",
+      "start_time": "2025-12-10T11:00:00",
+      "end_time": "2025-12-10T12:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "54",
+      "device_key": "xiaomi_mi11",
+      "user": "guest",
+      "start_time": "2025-12-10T17:00:00",
+      "end_time": "2025-12-10T18:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "55",
+      "device_key": "galaxy_s23",
+      "user": "developer",
+      "start_time": "2025-12-10T08:00:00",
+      "end_time": "2025-12-10T09:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "56",
+      "device_key": "iphone_13",
+      "user": "jm",
+      "start_time": "2025-12-10T15:00:00",
+      "end_time": "2025-12-10T17:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "57",
+      "device_key": "galaxy_s25_ultra",
+      "user": "developer",
+      "start_time": "2025-12-11T11:00:00",
+      "end_time": "2025-12-11T13:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "58",
+      "device_key": "xiaomi_14",
+      "user": "tester02",
+      "start_time": "2025-12-11T17:00:00",
+      "end_time": "2025-12-11T19:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "59",
+      "device_key": "pixel_8_pro",
+      "user": "tester01",
+      "start_time": "2025-12-11T17:00:00",
+      "end_time": "2025-12-11T19:00:00",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "60",
+      "device_key": "pixel_7",
+      "user": "tester02",
+      "start_time": "2025-12-12T12:00:00",
+      "end_time": "2025-12-12T13:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "61",
+      "device_key": "galaxy_s25_ultra",
+      "user": "tester02",
+      "start_time": "2025-12-12T08:00:00",
+      "end_time": "2025-12-12T09:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "62",
+      "device_key": "galaxy_s25_ultra",
+      "user": "tester01",
+      "start_time": "2025-12-12T10:00:00",
+      "end_time": "2025-12-12T12:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "63",
+      "device_key": "iphone_16_pro",
+      "user": "developer",
+      "start_time": "2025-12-12T08:00:00",
+      "end_time": "2025-12-12T10:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "64",
+      "device_key": "xiaomi_mi11",
+      "user": "tester01",
+      "start_time": "2025-12-13T14:00:00",
+      "end_time": "2025-12-13T15:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "65",
+      "device_key": "galaxy_note20",
+      "user": "jm",
+      "start_time": "2025-12-13T15:00:00",
+      "end_time": "2025-12-13T17:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "66",
+      "device_key": "galaxy_note20",
+      "user": "tester02",
+      "start_time": "2025-12-13T09:00:00",
+      "end_time": "2025-12-13T10:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "67",
+      "device_key": "galaxy_s23",
+      "user": "qa",
+      "start_time": "2025-12-13T13:00:00",
+      "end_time": "2025-12-13T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "68",
+      "device_key": "galaxy_s23",
+      "user": "tester01",
+      "start_time": "2025-12-14T11:00:00",
+      "end_time": "2025-12-14T13:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "69",
+      "device_key": "galaxy_note20",
+      "user": "guest",
+      "start_time": "2025-12-14T08:00:00",
+      "end_time": "2025-12-14T10:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "70",
+      "device_key": "galaxy_s23",
+      "user": "developer",
+      "start_time": "2025-12-14T10:00:00",
+      "end_time": "2025-12-14T11:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "71",
+      "device_key": "xiaomi_mi11",
+      "user": "qa",
+      "start_time": "2025-12-14T16:00:00",
+      "end_time": "2025-12-14T17:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "72",
+      "device_key": "iphone_xr",
+      "user": "jm",
+      "start_time": "2025-12-14T10:00:00",
+      "end_time": "2025-12-14T12:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "73",
+      "device_key": "galaxy_s25_ultra",
+      "user": "guest",
+      "start_time": "2025-12-15T17:00:00",
+      "end_time": "2025-12-15T19:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "74",
+      "device_key": "xiaomi_mi11",
+      "user": "qa",
+      "start_time": "2025-12-15T08:00:00",
+      "end_time": "2025-12-15T09:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "75",
+      "device_key": "xiaomi_mi11",
+      "user": "jm",
+      "start_time": "2025-12-15T13:00:00",
+      "end_time": "2025-12-15T15:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "76",
+      "device_key": "galaxy_s24",
+      "user": "qa",
+      "start_time": "2025-12-15T12:00:00",
+      "end_time": "2025-12-15T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "77",
+      "device_key": "galaxy_s24",
+      "user": "qa",
+      "start_time": "2025-12-16T09:00:00",
+      "end_time": "2025-12-16T10:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "78",
+      "device_key": "iphone_15",
+      "user": "tester02",
+      "start_time": "2025-12-16T10:00:00",
+      "end_time": "2025-12-16T11:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "79",
+      "device_key": "xiaomi_14",
+      "user": "developer",
+      "start_time": "2025-12-16T11:00:00",
+      "end_time": "2025-12-16T13:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "80",
+      "device_key": "iphone_13",
+      "user": "jm",
+      "start_time": "2025-12-17T17:00:00",
+      "end_time": "2025-12-17T18:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "81",
+      "device_key": "galaxy_s23",
+      "user": "guest",
+      "start_time": "2025-12-17T10:00:00",
+      "end_time": "2025-12-17T12:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "82",
+      "device_key": "iphone_13",
+      "user": "qa",
+      "start_time": "2025-12-17T12:00:00",
+      "end_time": "2025-12-17T13:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "83",
+      "device_key": "xiaomi_mi11",
+      "user": "guest",
+      "start_time": "2025-12-18T11:00:00",
+      "end_time": "2025-12-18T13:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "84",
+      "device_key": "iphone_xr",
+      "user": "tester02",
+      "start_time": "2025-12-18T15:00:00",
+      "end_time": "2025-12-18T17:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "85",
+      "device_key": "pixel_7",
+      "user": "developer",
+      "start_time": "2025-12-18T10:00:00",
+      "end_time": "2025-12-18T12:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "86",
+      "device_key": "iphone_14",
+      "user": "tester02",
+      "start_time": "2025-12-18T17:00:00",
+      "end_time": "2025-12-18T18:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "87",
+      "device_key": "galaxy_note20",
+      "user": "tester02",
+      "start_time": "2025-12-19T15:00:00",
+      "end_time": "2025-12-19T17:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "88",
+      "device_key": "iphone_se3",
+      "user": "guest",
+      "start_time": "2025-12-19T13:00:00",
+      "end_time": "2025-12-19T15:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "89",
+      "device_key": "iphone_se3",
+      "user": "jm",
+      "start_time": "2025-12-19T14:00:00",
+      "end_time": "2025-12-19T15:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "90",
+      "device_key": "iphone_xr",
+      "user": "qa",
+      "start_time": "2025-12-19T09:00:00",
+      "end_time": "2025-12-19T10:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "91",
+      "device_key": "iphone_15",
+      "user": "developer",
+      "start_time": "2025-12-19T14:00:00",
+      "end_time": "2025-12-19T15:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "92",
+      "device_key": "iphone_xr",
+      "user": "jm",
+      "start_time": "2025-12-20T14:00:00",
+      "end_time": "2025-12-20T15:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "93",
+      "device_key": "iphone_13",
+      "user": "developer",
+      "start_time": "2025-12-20T13:00:00",
+      "end_time": "2025-12-20T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "94",
+      "device_key": "galaxy_s25_ultra",
+      "user": "developer",
+      "start_time": "2025-12-20T12:00:00",
+      "end_time": "2025-12-20T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "95",
+      "device_key": "iphone_se3",
+      "user": "tester02",
+      "start_time": "2025-12-20T10:00:00",
+      "end_time": "2025-12-20T11:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "96",
+      "device_key": "iphone_se3",
+      "user": "jm",
+      "start_time": "2025-12-21T10:00:00",
+      "end_time": "2025-12-21T11:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "97",
+      "device_key": "xiaomi_14",
+      "user": "qa",
+      "start_time": "2025-12-21T12:00:00",
+      "end_time": "2025-12-21T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "98",
+      "device_key": "galaxy_note20",
+      "user": "jm",
+      "start_time": "2025-12-21T09:00:00",
+      "end_time": "2025-12-21T10:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "99",
+      "device_key": "galaxy_s25_ultra",
+      "user": "guest",
+      "start_time": "2025-12-21T11:00:00",
+      "end_time": "2025-12-21T13:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "100",
+      "device_key": "iphone_14",
+      "user": "jm",
+      "start_time": "2025-12-22T13:00:00",
+      "end_time": "2025-12-22T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "101",
+      "device_key": "galaxy_s23",
+      "user": "tester01",
+      "start_time": "2025-12-22T13:00:00",
+      "end_time": "2025-12-22T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "102",
+      "device_key": "iphone_14",
+      "user": "tester02",
+      "start_time": "2025-12-22T09:00:00",
+      "end_time": "2025-12-22T11:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "103",
+      "device_key": "galaxy_s24",
+      "user": "qa",
+      "start_time": "2025-12-23T13:00:00",
+      "end_time": "2025-12-23T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "104",
+      "device_key": "iphone_se3",
+      "user": "guest",
+      "start_time": "2025-12-23T16:00:00",
+      "end_time": "2025-12-23T17:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "105",
+      "device_key": "xiaomi_mi11",
+      "user": "tester01",
+      "start_time": "2025-12-23T16:00:00",
+      "end_time": "2025-12-23T18:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "106",
+      "device_key": "galaxy_s25_ultra",
+      "user": "tester02",
+      "start_time": "2025-12-23T08:00:00",
+      "end_time": "2025-12-23T10:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "107",
+      "device_key": "pixel_8_pro",
+      "user": "tester01",
+      "start_time": "2025-12-23T13:00:00",
+      "end_time": "2025-12-23T15:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "108",
+      "device_key": "iphone_13",
+      "user": "qa",
+      "start_time": "2025-12-24T12:00:00",
+      "end_time": "2025-12-24T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "109",
+      "device_key": "iphone_13",
+      "user": "qa",
+      "start_time": "2025-12-24T11:00:00",
+      "end_time": "2025-12-24T13:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "110",
+      "device_key": "galaxy_s24",
+      "user": "tester02",
+      "start_time": "2025-12-24T10:00:00",
+      "end_time": "2025-12-24T12:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "111",
+      "device_key": "galaxy_s24",
+      "user": "guest",
+      "start_time": "2025-12-25T13:00:00",
+      "end_time": "2025-12-25T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "112",
+      "device_key": "iphone_xr",
+      "user": "tester02",
+      "start_time": "2025-12-25T17:00:00",
+      "end_time": "2025-12-25T19:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "113",
+      "device_key": "galaxy_s25_ultra",
+      "user": "guest",
+      "start_time": "2025-12-25T11:00:00",
+      "end_time": "2025-12-25T13:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "114",
+      "device_key": "iphone_xr",
+      "user": "qa",
+      "start_time": "2025-12-25T12:00:00",
+      "end_time": "2025-12-25T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "115",
+      "device_key": "pixel_8_pro",
+      "user": "jm",
+      "start_time": "2025-12-25T13:00:00",
+      "end_time": "2025-12-25T15:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "116",
+      "device_key": "iphone_se3",
+      "user": "tester02",
+      "start_time": "2025-12-26T09:00:00",
+      "end_time": "2025-12-26T11:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "117",
+      "device_key": "iphone_13",
+      "user": "qa",
+      "start_time": "2025-12-26T09:00:00",
+      "end_time": "2025-12-26T10:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "118",
+      "device_key": "iphone_se3",
+      "user": "developer",
+      "start_time": "2025-12-26T12:00:00",
+      "end_time": "2025-12-26T13:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "119",
+      "device_key": "xiaomi_14",
+      "user": "guest",
+      "start_time": "2025-12-27T13:00:00",
+      "end_time": "2025-12-27T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "120",
+      "device_key": "galaxy_s24",
+      "user": "tester01",
+      "start_time": "2025-12-27T09:00:00",
+      "end_time": "2025-12-27T10:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "121",
+      "device_key": "iphone_13",
+      "user": "qa",
+      "start_time": "2025-12-27T12:00:00",
+      "end_time": "2025-12-27T14:00:00",
+      "status": "RESERVED"
+    },
+    {
+      "id": "122",
+      "device_key": "galaxy_s24",
+      "user": "qa",
+      "start_time": "2025-12-27T08:00:00",
+      "end_time": "2025-12-27T10:00:00",
+      "status": "RESERVED"
+    }
+  ]
+}
